@@ -1,0 +1,24 @@
+Screen Definition:
+
+• Email Label
+• email field
+• Password Label
+• password field
+• Login button
+• Signup button
+• Forget password
+
+User Story:
+
+As a valid user, I want to enter to log in by providing my registered email & password so that I can access the system service. If I forget my password, I can restore from forget password segment. As an unregistered user, I want to press the signup button to registered as a new user.
+
+Acceptance Criteria:
+
+• The Email input field should be mandatory; if left empty and the Login button is clicked, it should display "Email is required."
+• The Password input field should be mandatory; if left empty and the Login button is clicked, it should display "Password is required."
+• If both Email and Password fields are empty and the Login button is clicked, the system should display validation messages for both fields.
+• The entered email must exist in the database. If the entered email does not exist in the database, the system should display "Email not found." Otherwise, it should display "Email Found."
+• If both the email and password match the database records, the system should take the user to their homepage.
+• On clicking the Signup button, the system should take the user to the Signup page.
+• On clicking the Forget Password link, the system should take the user to the Forget Password page.
+• The system should block the user for 30 minutes after 5 wrong attempts.
