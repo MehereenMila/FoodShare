@@ -1,16 +1,15 @@
 Screen Definition:
-Log out Button
-Confirm Logout Button
-Cancel Button
+• Log out Button
+• Confirm Logout Button
+• Cancel Button
 
 User Story:
 As a user, I want to log out of the system so that I can exit the system securely.
 
 Acceptance Criteria:
-
-The user should be able to log out from any page.
-A logout option should be available in the top bar.
-A confirmation prompt should optionally be displayed  before logout.
-The user session should be terminated upon logout.
-It should redirect the user to the login page after logout.
-A secure logout should be ensured across all devices.
+• The user should be able to log out from any page.
+• A logout option should be available in the top bar.
+• A confirmation prompt should optionally be displayed  before logout.
+• The user session should be terminated upon logout.
+• It should redirect the user to the login page after logout.
+• A secure logout should be ensured across all devices.
