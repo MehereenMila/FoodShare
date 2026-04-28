@@ -1,0 +1,28 @@
+Screen Definition:
+
+• Name*
+• Email address*
+• Gender*
+• Date of Birth*
+• Phone Number*
+• Password*
+• Confirm Password
+• User Role (Donor / Volunteer / Manager)*
+• Already have an account button
+• Signup button
+• Signin link
+
+User Story:
+
+As a user, I want to create an account so that I can access the platform by providing basic information such as Name, Email, Gender, Date of Birth, Password, Confirm Password so that I can access the system. I also want to select my role and verify my email through an OTP to ensure my account is secure.
+
+Acceptance Criteria-
+
+• Email (input) field should only accept a valid, unregistered email address as input otherwise, it will show an "Email already used"
+• Password (input) should be a minimum of 8 characters long otherwise, it will show an "Invalid password" message.
+• Confirm password (input) should match the password otherwise, it will show a "Password does not match" message.
+• User role must be selected otherwise, it will show "Please select a user role."
+• Phone number field should accept only valid numeric phone numbers (e.g., 11 digits for Bangladesh) otherwise, it will show "Invalid phone number" or "Phone number already used."
+• On clicking the Signup button, if all fields are correctly filled, the credentials will be stored in the database, and the user will be redirected to the Login Page.
+• A confirmation email is sent to the user.
+• On clicking the Login link, the user should go to the Login page
