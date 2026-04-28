@@ -1,0 +1,26 @@
+Screen Definition:
+
+Overview Cards(Total Unassigned Donations, Active Deliveries, Completed Donations, Available Volunteers)
+
+Navigation Sidebar Menu [
+• View Available Food (link)
+• Manage Volunteers (link)
+• Assign Task to Volunteer (link)
+• Delivery tracking section (link)
+• Profile (link) ]
+
+User Stories:
+
+As a Manager, I want to access a centralized management dashboard with system-wide overview cards and a navigation sidebar so that I can monitor the performance, approve pending requests, and ensure all donation tasks are being handled efficiently.
+
+Acceptance Criteria-
+
+• Dashboard should load overview card by default and statistics should reflect latest data.
+• Dashboard should be restricted to data visualization. No crud operation should be initiated directly on the dashboard
+• Manager should be able to assign tasks successfully
+• Delivery status updates should be visible
+• Manager can view only their own listings
+• The role based menu must be easily accessible from the main dashboard for users with "Manager" role
+• Each sidebar link should successfully redirect the user to the associated functional page such as- by clicking View Assigned Task link will user to the Assigned Task page, Clicking Manage Volunteer will user to the Manage Volunteer page etc.
+
+
