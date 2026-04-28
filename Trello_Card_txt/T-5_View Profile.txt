@@ -1,0 +1,18 @@
+Screen Definition:
+• View profile-label *
+• Profile Picture Name *
+• Email *
+• Phone *
+• Date of Birth*
+• Gender *
+• User Role type *
+• Button edit
+
+User Story:
+As a registered user(admin, donor, manager, volunteer), I want to view my complete profile information.
+
+Acceptance Criteria:
+• All data should displays correctly
+• If any profile data is missing, the system should display the field as blank or show “Not provided.”
+• The View Profile screen should display the user’s profile picture correctly; if no profile picture is uploaded, a default avatar should be shown.
+• When user click Edit button, it should go to the edit profile properly.
