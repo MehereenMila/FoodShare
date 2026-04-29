@@ -1,0 +1,19 @@
+Screen Definition:
+• Pending User Details
+• Document Preview
+• Verification Status
+• User Role selector
+• Approval button
+• Reject button
+
+User Story:
+As an Admin, I want to view pending users, review their uploaded documents, and approve or reject them so that I can verify their identity and control access to the system.  I also want to review a user's provided details and assign their official role so that I can finalize their access request to the platform.
+
+Acceptance Criteria-
+• All the information and documents provided by the user during registration should be displayed.
+• The admin should be able to set the Verification Status dropdown to "Verified" or "Unverified" based on the evidence.
+• The admin will confirm or change the User Role before finalizing access.
+• The system should enable the Approval button only after a Verification Status has been selected.
+• The user's status should be updated in the database once the Approval/Accept button is clicked.
+• It should automatically remove the user from the pending list after the request is accepted or rejected.
+• A Success confirmation should display message upon a successful status update.
