@@ -1,0 +1,15 @@
+Screen Definition:
+• Donation Analytics
+• Delivery Analytics
+• User Analytics
+• Filters
+
+User Story:
+As an Admin, I want to view donation trends so that I can analyze contribution patterns and I also want to track delivery performance, analyze user growth, filter reports  so that I can measure efficiency, understand platform adoption and review specific time periods.
+
+Acceptance Criteria-
+• Charts should be loaded correctly with real system data.
+• Admin should be able to filter reports by date range
+• All charts should be able to update dynamically based on filters
+• No editing or deletion should be allowed
+• Performance should remain smooth even with large data.
