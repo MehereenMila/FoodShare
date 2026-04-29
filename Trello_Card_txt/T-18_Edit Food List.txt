@@ -1,0 +1,23 @@
+Screen Definition:
+•  Food name *
+•  Food description *
+•  Quantity input *
+•  Food type *
+•  Expiry date *
+•  Food image preview *
+•  Replace image *
+•  Update button
+•  Cancel button
+•  Back navigation button
+
+User Story:
+As a Donor, I want to edit my food listing so that I can update the incorrect data and changed food details before it is distributed.
+
+Acceptance Criteria-
+•  Donor should be able to edit an existing food listing.
+•  Donor should be able to update food information such as name, description, quantity, category, expiry date, and image.
+•  Donor should be able to save the updated food listing.
+•  Donor should be able to cancel the edit operation without saving changes.
+•  It should ensure only the owner donor can edit their food listing.
+•  The updated information should be validated before saving changes.
+•  The updated food listing should save successfully in the database.
