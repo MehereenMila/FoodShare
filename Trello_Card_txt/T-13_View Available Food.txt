@@ -1,0 +1,25 @@
+Screen Definition:
+• Search input field
+• Status filter dropdown
+• Filter panel section
+• Food listings table (Food name, Quantity, Category, Expiry date, Location)
+• Status badge (Available, Assigned, Expired)
+• View details button
+• Refresh button
+
+User Stories:
+As a Manager, I want to view all donated food listings and I want to search and filter the listings so that I can quickly monitor find and manage food distribution efficiently.
+
+Acceptance Criteria:
+• All available food listings should be displayed to the manager.
+• Food lists should present in a structured table format and each listing must include food name, quantity, category, expiry date, location, and status.
+• Only active and non-deleted listings should be visible.
+• The status of each listing should clearly indicate as Available or Assigned or Expired based on the current.
+• The displayed list should be updated when new listings are added or existing ones are modified.
+• The manager must be allow to search food by keywords.
+• The list must be updated based on search and filter inputs.
+• The manager must be able to view detailed information for a selected listing.
+• The system should refresh and reload the latest data when requested.
+• A proper empty state should be displayed when no food listings are available.
+• The displayed data must be accurate and up to date.
+• An empty message must be displayed when no results are found.
