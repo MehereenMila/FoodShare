@@ -1,0 +1,9 @@
+User Stories:
+As a user, I want the Performance page to load quickly and show my performance data, so that I can review results without delay.
+
+Acceptance Criteria:
+• A page should load with all of it's elements at once.
+• A loading indicator should run until all the data are ready.
+• Page should load within 2-3 second under normal network condition.
+• If any network issue happed system should display "Please check your internet connection and try again" message.
+• If any error occured to load data system should display "Unable to load data. Please try again" message.
