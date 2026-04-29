@@ -1,0 +1,16 @@
+Screen Definition:
+• Current Profile Photo
+• Upload Photo Button
+• Choose file field
+• Preview Image Section
+• Update Button
+
+User Stories:
+As a user, I want to upload a new profile picture so that I can personalize my account and keep my visual identity up to date.
+
+Acceptance Criteria:
+• The current profile photo should be shown.
+• The file size and formate should be validate before upload.
+• The users should be able to preview the image section.
+• The profile photo should be updated upon confirmation.
+• Confirm button should redirect user to view profile page
