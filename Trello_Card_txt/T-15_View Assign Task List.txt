@@ -1,0 +1,17 @@
+Screen Definition:
+• Assigned Task list
+• Task details view
+• Assigned Volunteer
+• Task Status
+
+User Stories:
+As a user, I want to view assigned tasks, track status so that I can monitor delivery progress and ensure timely completion.
+
+Acceptance Criteria:
+• Only assigned tasks must be displayed to the logged-in manager.
+• Each task must include task ID, food name, pickup location, delivery location, and current status, Assigned Volunteers details.
+• It must allow viewing detailed task information upon selection.
+• The  empty state will show when no tasks are assigned.
+• Manager should see all assigned tasks.
+• Each task should show status as Assigned or In Progress or Completed and must be updated  based on latest action.
+• Tasks are linked to volunteers and donations.
