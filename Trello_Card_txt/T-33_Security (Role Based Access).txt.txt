@@ -1,0 +1,7 @@
+User Stories:
+As an admin, I want the system to allow access only to features that match to a specific role so another person with another role cannot see or modify things.
+
+Acceptance Criteria:
+• Admin should have full access of the system functions
+• Volunteers should not see admin and managers and donor features
+• Managers should not get access admin and donor only feature.

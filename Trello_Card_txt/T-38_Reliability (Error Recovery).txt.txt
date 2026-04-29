@@ -1,0 +1,8 @@
+User Stories:
+As a user, I want the system to work consistently without errors so I can use all features smoothly and without interruptions.
+
+Acceptance Criteria:
+• The system should run without unexpected crashes or errors.
+• The system should recover smoothly after minor failures
+• Error messages should be clear and informative.
+• Failed operations should not corrupt user data.

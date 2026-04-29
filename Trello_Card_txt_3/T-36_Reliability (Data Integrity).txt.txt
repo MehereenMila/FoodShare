@@ -1,0 +1,8 @@
+User Stories:
+As a user, I want the system to work consistently without errors so I can use all features smoothly and without interruptions.
+
+Acceptance Criteria:
+• User data should be saved correctly without loss.
+• The platform should remain available and responsive during normal usage.
+• Core functionalities should work consistently at all the time.
+• Database should maintain integrity after updates or crashes.
