@@ -1,0 +1,22 @@
+Screen Definition:
+• User list
+• User details view
+• Search bar
+• Filter (role, status)
+• Action buttons (view, edit, block)
+• Check Details button
+
+User Story:
+As an Admin, I want to view, search, filter, and manage users, access their detailed information, and block or control accounts so that I can effectively manage the system and prevent misuse.
+
+Acceptance Criteria-
+• The Access Request table  should display containing the User Name, ID, and Email for all pending accounts.
+• The requested Role for each user should be visible to identify if they are a Donor or Volunteer.
+• The admin can Verify User page when the Check Details button is clicked.
+• The admin should be able to view all registered users in a list
+• Admin should be able to search users by name or email and open user details view.
+• Admin should be able to filter users by role as Donor, Manager, Volunteer and status as Active,  Blocked or Pending
+• The user's status should be updated to "Active" in the database upon clicking Accept.
+• The user's entry would be removed from the list immediately after an action is taken.
+• It should display a Success confirmation message at the top of the screen after a successful approval.
+• The Search and Filter bar should accurately filters the table by Name or Email.
