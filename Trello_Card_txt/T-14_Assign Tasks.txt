@@ -1,0 +1,24 @@
+Screen Definition:
+• Food selection field
+• Select Volunteer dropdown
+• Task deatails section
+• Assign task button
+• Cancel button
+
+User Story:
+As a Manager, I want to assign food pickup and delivery tasks to volunteers so that food can be distributed efficiently and on time.
+
+Acceptance Criteria-
+• Manager should be able to select a food listing for assignment.
+• Manager should be able to select a volunteer from a list of active volunteers.
+• It should only display volunteers with active status in the selection list.
+• The task details should automatically display after selecting a food listing.
+• The food name, quantity, pickup location, and delivery location should show as task details.
+• The task details should update when a different food listing is selected.
+• Manager should be able to assign a selected food listing to a selected volunteer.
+• It should allow assignment only when both food listing and volunteer are selected.
+• Assign Task should not procced for already assigned or unavailable food listings.
+• Food listing status should update to “Assigned” after successful assignment.
+• The assigned task should add to the selected volunteer’s task list.
+• The manager should be able to allow to cancel assignment before confirmation.
+• A success message should display after assignment.
