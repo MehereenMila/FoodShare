@@ -1,0 +1,25 @@
+Screen Definition:
+• Profile Picture *
+• Name *
+• Email *
+• Phone *
+• Date of Birth *
+• Gender *
+• User Role *
+• Upload Image button
+• Save button
+• Cancel button
+
+User Story:
+As a user I want to edit my information so that if I add something wrong mistakenly I can solve it.
+
+Acceptance Criteria-
+• There should be no null values.
+• Email should be verified and should be in abc@gmail.com
+• It should not accept an already registered email used by another user. format.
+• Phone number should be valid.
+• Date of birth should be logical and cannot be in the future from today.
+• The system should not provide an edit option for the user type.
+• Pressing the Save button should update the info in the DB and display “Update Successfully”, but if there is any null value, the system should display "Fill all of the items first".
+• Pressing the Upload Image button should upload a new image.
+• Pressing the Cancel button should return the page to view mode.
