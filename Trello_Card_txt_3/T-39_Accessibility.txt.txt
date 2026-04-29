@@ -1,8 +1,0 @@
-User Stories:
-As a user, I want the system to be simple and accessible, so that people of all ages and abilities can use it easily.
-
-Acceptance Criteria:
-• The system should be usable by all types of users.
-• The design of the system should be intuitive and simple navigation.
-• Font size and color should be kept so that people with vision limitations can easily read it.
-• Each button should be marked clearly and Simple labguage should be used and avoide technical language.

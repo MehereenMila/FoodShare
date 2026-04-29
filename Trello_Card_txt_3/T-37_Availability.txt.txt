@@ -1,8 +1,0 @@
-User Stories:
-As a valid user, I want the system features are available and accessible whenever I need it to use so that I can complete my needs without facing any problem.
-
-Acceptance Criteria:
-• The system should maintain continuously all the time.
-• System downtime should only allowed during scheduled maintenance time.
-• System controller should announce maintenance time in advance.
-• If any unexpected downtime occurs system should display a "Service Unavailable. Please try again later." message.

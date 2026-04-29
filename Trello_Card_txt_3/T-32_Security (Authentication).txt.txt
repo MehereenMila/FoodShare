@@ -1,8 +1,0 @@
-User Stories:
-As a user, I want secure login and data protection, so that my account remains safe from unauthorized access and data breaches.
-
-Acceptance Criteria:
-• System should require a valid email and password to log in.
-• Password should be stored using encryption.
-• After 5 consecutive failed login attempts, the user account should be temporarily locked and it should display "Your account is locked try later".
-• System should prevent unauthorized access.

@@ -1,8 +1,0 @@
-User Stories:
-As a user I want every page in the system should adjust automatically to my device size, so that I can easily use the system on mobile, tablet or desktop without any layout issues.
-
-Acceptance Criteria:
-• All screen should automatically adjust their layout for desktop, laptop, tablet, mobile.
-• All text, labels, buttons should remain fully visible and readable.
-• Buttons, Search bar, Filter control should fully usable and touch able.
-• No overlapping or broken layout should occur at any screen size.
