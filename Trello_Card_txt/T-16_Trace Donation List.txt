@@ -1,0 +1,24 @@
+Screen Definition:
+• Delivery tracking table (Task ID, Food name, Volunteer name, Pickup location, Delivery location, Delivery status)
+• Search input field
+• Status filter dropdown
+• View details button
+• Refresh button
+
+User Story:
+As a Manager, I want to track delivery progress so that I can monitor and ensure proper food distribution.
+
+Acceptance Criteria:
+• The delivery history must be displayed based on user role.
+• Volunteers should only see their own delivery records.
+• Manager should see all the assigned delivery tasks and track the status of each delivery task.
+• The delivery status should be displayed as Assigned or Picked Up or In Transit or Delivered).
+• The manager should be able to see the volunteer details for each assigned task.
+• The food details should be visible with name, quantity for each task.
+• The delivery tracking table should show the details including Task ID, Food details, Volunteer name, Pickup location, Delivery location, Delivery status.
+• The delivery status should be updated in real time or on refresh.
+• Manager nad volunteer should be able to view detailed information of each delivery task.
+• The manager and volunteer should be able to filter delivery tasks by status.
+• Manager should be able to search delivery tasks by food name or volunteer name.
+• The assigned tasks must be visible in tracking.
+• The task should mark as completed when delivery is finished.
