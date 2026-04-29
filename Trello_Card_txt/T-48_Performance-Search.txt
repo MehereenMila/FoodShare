@@ -1,0 +1,12 @@
+User Stories:
+
+As a user searching data, I want to search for a specific role depending on my system, so that I can quickly find the performance information that I need.
+
+Acceptance Criteria:
+
+• The search field should be visible and accessible on the screen.
+• The system should return the searched item within 2 seconds.
+• If no matched result is found, the system should display "No result found."
+• If the search service fails the system should display "unable to load the result. Please Try again".
+• Search should support partial and full keyword matches.
+• Search results should update correctly with every new search.
