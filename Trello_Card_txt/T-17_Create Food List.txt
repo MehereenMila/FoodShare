@@ -1,0 +1,25 @@
+Screen Definition:
+• Food Name *
+• Food Type *
+• Quantity *
+• Expiry Time *
+• Description  *
+• Image Upload *
+• Location *
+• Special Instructions *
+• Submit button
+• Reset button
+
+User Story:
+As a donor, I want to create a surplus food listing with details so that I can share surplus food and help reduce food waste in the community.
+
+Acceptance Criteria-
+• Donor should be able to enter food name, food type, quantity, expiry time, and pickup location.
+• Donor should be able to add a description of the food.
+• Donor should be able to upload at least one image of the food in JPEG format.
+• System should allow creation of a food listing with provided details.
+• All required fields must be filled.
+• It should ensure quantity is a positive number.
+• The expiry time must be a valid future date/time.
+• The food listing should be stored in the database successfully.
+• The food listing should be available to managers after creation.
