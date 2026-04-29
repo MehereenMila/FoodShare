@@ -1,0 +1,27 @@
+Screen Definition:
+
+Food listing item
+
+Delete button
+
+Warning message section
+
+Confirm delete button
+
+Cancel button
+
+User Story:
+
+As a Donor, I want to delete my food listing so that I can remove incorrect or unavailable listings before they are picked up or distributed.
+
+Acceptance Criteria-
+
+• Donor should be able to delete a food listing.
+• A food listing must not be able delete once pickup or distribution has started.
+• It should allow deletion only if the food has not been assigned, picked up, or distributed by volunteers.
+• It must block deletion attempts for in-progress or completed deliveries.
+•  A confirmation prompt should be displayed before deletion.
+• The donor should be able to cancel the deletion action from the confirmation prompt but it should prevent deletion if the listing is already in progress or completed.
+• The listing view should be updated after successful deletion and it must be immediately reflected.
+
+
