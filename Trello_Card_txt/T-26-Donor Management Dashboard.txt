@@ -1,0 +1,22 @@
+Screen Definition:
+
+Overview Cards(Total Donations, Active Listings, Completed Donations, Pending Pickups)
+
+Navigation Sidebar Menu [
+• Create Food Listing (link)
+• View My Listings (link)
+• View Donation History (link)
+• Feedback(link)
+• Profile (link) ]
+
+User Stories:
+
+As a donor, I want to access all the important things in one dashboard so that I can view the real-time status of my donations, track my overall contribution and easily manage my profile.
+
+Acceptance Criteria-
+
+• Dashboard should load overview card by default and statistics should reflect latest data.
+• Dashboard should be restricted to data visualization. No crud operation should be initiated directly on the dashboard
+• The role based menu must be easily accessible from the main dashboard for users with "Donor" role
+• Menu items should display a numerical badge.
+• Each sidebar link should successfully redirect the user to the associated functional page.
