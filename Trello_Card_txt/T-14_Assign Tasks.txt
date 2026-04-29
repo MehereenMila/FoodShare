@@ -1,7 +1,7 @@
 Screen Definition:
 • Food selection field
 • Select Volunteer dropdown
-• Task deatails section
+• Task details section
 • Assign task button
 • Cancel button
 

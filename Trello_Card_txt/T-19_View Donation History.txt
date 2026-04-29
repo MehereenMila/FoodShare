@@ -1,0 +1,29 @@
+Screen Definition:
+• History list container
+• Date range filter
+• Donation status filter
+• Food name *
+• Donation date *
+• Volunteer name *
+• Total quantity *
+• Status badge indicator (color-coded) *
+• View details button
+• Download report button
+
+User Story:
+As a Donor, I want to access my past donation records so that I can track my contributions and review my donation impact over time.
+
+Acceptance Criteria-
+• The system should load and display all historical donation records linked to the donor account.
+• Only valid past donation entries (completed, cancelled, or expired) should be shown in the history list.
+• The donor should be able to refine results using a selectable date range filter.
+• The donor must be able to narrow results based on donation status categories.
+• Each record should clearly show the food name associated with the donation.
+• The donation timestamp must be displayed in a user-friendly and readable format.
+• Each entry must include the total quantity of food donated.
+• The volunteer name for receiving the donation should be displayed.
+• A visually distinct status indicator must be shown for each record based on its state.
+• The donor should be able to open a detailed view for any donation entry.
+• The system should support exporting donation history as a downloadable report.
+• When no donation records exist, the system must present an empty state view.
+• The donation history should be automatically ordered with the newest records appearing first.

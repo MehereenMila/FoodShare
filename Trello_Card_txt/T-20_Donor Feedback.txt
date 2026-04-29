@@ -1,0 +1,20 @@
+Screen Definition:
+• Food Name
+• Volunteer Name
+• Volunteer Id
+• Punctuality Rating (1–5 stars)
+• Professionalism Rating
+• Comment Box
+• Submit Feedback button
+• Skip button
+
+User Story:
+As a donor, I want to provide feedback on the volunteer who collected my food so that I can reward good service and report any issues with the pickup process.
+
+Acceptance Criteria-
+• The Feedback screen should automatically display to the donor once a volunteer marks a task as "Delivered" or "Completed."
+• The donor should be able to rate the volunteer’s Punctuality and Professionalism using a star-based scale.
+• The donor should provide optional written comments in the Comment Box.
+• The Submit Feedback button should only be enabled after the star ratings are selected.
+• The volunteer’s "Average Rating" should be updated in the database upon submission.
+• A notification should be sent to the Manager and Admin if a donor leaves a rating below 2 stars.
