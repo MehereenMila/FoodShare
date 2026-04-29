@@ -1,0 +1,24 @@
+Screen Definition:
+• NGO Name *
+• NGO Type *
+• Collaboration Type *
+• Contact Person *
+• Contact Number *
+• Email *
+• Location *
+• Description *
+• Add button
+• Cancel button
+
+User Stories:
+As an admin, I want to add new NGO collaborations so that I can expand the network and improve food distribution accuracy.
+
+Acceptance Criteria:
+• The admin should be able to add new NGO collaborations.
+• The NGO details should be included name, type, contact information, and location.
+• The system should allow selection of collaboration type.
+• All required fields should be validated before submission.
+• The duplicate NGO entries should be prevented.
+• The collaboration data should be stored securely in the database.
+• A success message should display after successful addition.
+• The system should restrict this feature to admin roles only.
