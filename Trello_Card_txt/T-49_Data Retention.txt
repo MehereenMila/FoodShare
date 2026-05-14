@@ -1,0 +1,12 @@
+User Stories:
+
+As an admin, I want the system to store and manage historical data for a defined period, so that I can access past records for reporting, auditing, and analysis when needed.
+
+Acceptance Criteria:
+
+• The system should retain all donation, delivery, and transaction records for at least 6 months.
+• Old data should be automatically archived after the retention period.
+• Archived data should remain accessible for reporting and analysis when required.
+• The system should automatically delete unnecessary data after the retention period, following policy rules.
+• Data retrieval from archived storage should be completed within 5 seconds.
+• The system should notify the admin when storage usage reaches a critical level.

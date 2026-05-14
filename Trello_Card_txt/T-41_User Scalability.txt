@@ -1,0 +1,11 @@
+User Stories:
+
+As any user, I want the platform to work fast and smoothly even when thousands of people are using it at the same time for learning and teaching.
+
+Acceptance Criteria:
+
+• All pages should load in under 3 seconds with 100,000+ active users.
+• If the page take longer than 3 sec a loading indicator should appear.
+• Login and authentication work should be done instantly during peak hours.
+• No system crashes or slowdowns should accure during high traffic periods.
+
