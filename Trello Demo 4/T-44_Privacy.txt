@@ -1,0 +1,10 @@
+User Stories:
+
+As a user, I want my personal information (such as name, contact details, and location) to be kept private and securely managed so that I can use the system without worrying about misuse of my data.
+
+Acceptance Criteria:
+
+• The system should protect user personal data.
+• The location and identity should remain confidential.
+• Data sharing should require user consent.
+• Personal data should not be exposed to unauthorized users.

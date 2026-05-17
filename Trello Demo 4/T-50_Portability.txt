@@ -1,0 +1,10 @@
+User Stories:
+
+As a user, I want the system to work on different devices and operating systems, so that I can access the application from anywhere.
+
+Acceptance Criteria:
+
+• The system should run on major operating systems such as Windows, Android, and iOS.
+• The system should work properly on all modern web browsers such as Chrome, Firefox, Edge.
+• The application should be responsive and usable on mobile, tablet, and desktop devices.
+• The system should be deployable on both cloud and local server environments.
