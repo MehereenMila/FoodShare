@@ -23,5 +23,3 @@ Acceptance Criteria-
 •  A confirmation prompt should be displayed before deletion.
 • The donor should be able to cancel the deletion action from the confirmation prompt but it should prevent deletion if the listing is already in progress or completed.
 • The listing view should be updated after successful deletion and it must be immediately reflected.
-
-

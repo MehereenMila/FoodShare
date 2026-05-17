@@ -20,5 +20,3 @@ Acceptance Criteria-
 • The role based menu must be easily accessible from the main dashboard for users with "Donor" role
 • Menu items should display a numerical badge.
 • Each sidebar link should successfully redirect the user to the associated functional page.
-
-
