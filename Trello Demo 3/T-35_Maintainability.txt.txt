@@ -1,0 +1,9 @@
+User Stories:
+As a admin, I want the system to be easy to update and fix so that I can quickly resolve issues and add new features.
+
+Acceptance Criteria:
+• System should be easy to update without making any effect in other parts.
+• Documentation should be correct so a new developer can easily work.
+• Developers should be able to fix bugs quickly.
+• New features should be easy to add without rewriting existing code.
+• The system should follow standard coding practices and naming conventions.
