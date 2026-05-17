@@ -1,0 +1,24 @@
+Screen Definition:
+
+Overview Cards(Total Assigned Tasks, Total Pending Pickups, Total Completed Deliveries, Total Rating Score)
+
+Navigation Sidebar Menu [
+• View My Tasks (link)
+• Donation Tracking (link)
+• Delivery Management (link)
+• Ratings & Feedback (link)
+• Profile (link) ]
+
+User Stories:
+
+As a volunteer, I want to access all the important things in one dashboard so that I can view the real-time status of my task, track my overall history and easily manage my profile.
+
+Acceptance Criteria-
+
+• Dashboard should load overview card by default and statistics should reflect latest data.
+• Dashboard should be restricted to data visualization. No crud operation should be initiated directly on the dashboard
+• The role based menu must be easily accessible from the main dashboard for users with "Volunteer" role
+• Each sidebar link should successfully redirect the user to the associated functional page such as- Clicking View Assign Task link will take user to the My Task page, Clicking Rating & feedback will user to the Rating & feedback page.
+• Delivery status updates should be visible. Rating system should be visible and updated
+• Volunteer can view only their own listings
+• No admin-level, donor-level, manager-level data should be visible.
