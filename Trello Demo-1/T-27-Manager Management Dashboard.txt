@@ -22,5 +22,3 @@ Acceptance Criteria-
 • Manager can view only their own listings
 • The role based menu must be easily accessible from the main dashboard for users with "Manager" role
 • Each sidebar link should successfully redirect the user to the associated functional page such as- by clicking View Assigned Task link will user to the Assigned Task page, Clicking Manage Volunteer will user to the Manage Volunteer page etc.
-
-

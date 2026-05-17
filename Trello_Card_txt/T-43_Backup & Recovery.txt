@@ -1,0 +1,8 @@
+User Stories:
+
+As a system owner, I want regular data backups so that data can be recovered in case of failure.
+
+Acceptance Criteria:
+
+• The system should perform automatic daily backups.
+• Data recovery should be possible within a reasonable time after failure.

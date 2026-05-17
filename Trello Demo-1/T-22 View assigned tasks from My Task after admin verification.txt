@@ -25,5 +25,3 @@ Acceptance Criteria:
 • Volunteer should be able to accept or reject the task.
 • Notifications should be sent as "Accepted Task" or "Pending Task" or "Rejected Task".
 • The status should be updated based on volunteer action.
-
-

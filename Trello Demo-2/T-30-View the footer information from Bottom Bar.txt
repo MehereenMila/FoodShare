@@ -1,0 +1,10 @@
+Screen Definition:
+
+Copyright text
+Current year
+
+User Stories:
+
+As a user, I want to see footer information so that I know the platform details.
+
+Acceptance Criteria: None

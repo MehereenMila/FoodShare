@@ -25,5 +25,3 @@ Acceptance Criteria-
 • The manager should be notified after pickup and delivery.
 • The task should be locked after delivery completion to ensure no further edits.
 • The success messages should be displayed after each action.
-
-
